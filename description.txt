@@ -1,0 +1,8 @@
+Tomasz Krupiński, Jakub Kasprzak
+https://github.com/DenKakai/SNARS
+D1-UNC.csv, 1.0289s
+D2-UNC.csv, 1.5978s
+D3-UNC.csv, 0.3191s
+D1-K=2.csv, 0.0409s
+D2-K=7.csv, 0.1516s
+D3-K=12.csv, 0.7312s
